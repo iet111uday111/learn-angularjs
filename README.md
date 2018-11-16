@@ -108,35 +108,35 @@ modular and easily testable thus in turn helping a team create more robust appli
 ### Screenshots 
 
 #### DI
-![Alt text](./Screenshoots/Screenshot1.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot1.png?raw=true "Optional Title")
 
 #### Minification
-![Alt text](./Screenshoots/Screenshot2.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot2.png?raw=true "Optional Title")
 
 #### Interpolation
-![Alt text](./Screenshoots/Screenshot3.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot3.png?raw=true "Optional Title")
 
 #### Directive
-![Alt text](./Screenshoots/Screenshot4.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot4.png?raw=true "Optional Title")
 
 #### MV*
-![Alt text](./Screenshoots/Screenshot5.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot5.png?raw=true "Optional Title")
 
 #### Watch & Digest Loop
-![Alt text](./Screenshoots/Screenshot6.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot6.png?raw=true "Optional Title")
 
 #### Angular Context
-![Alt text](./Screenshoots/Screenshot7.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot7.png?raw=true "Optional Title")
 
 #### Singleton
-![Alt text](./Screenshoots/Screenshot8.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot8.png?raw=true "Optional Title")
 
 #### Normalize
-![Alt text](./Screenshoots/Screenshot9.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot9.png?raw=true "Optional Title")
 
 #### Compile & Link
-![Alt text](./Screenshoots/Screenshot10.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot10.png?raw=true "Optional Title")
 
 #### Transclusion
-![Alt text](./Screenshoots/Screenshot11.png?raw=true "Optional Title")
+![Alt text](./Screenshots/Screenshot11.png?raw=true "Optional Title")
 
